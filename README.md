@@ -24,6 +24,8 @@ The bearing fault tests were conducted using a Spectra-Quest Mechanical Fault Si
 The bearings in nine health states are illustrated in Fig. 2, representing (1) normal, (2) medium inner race fault, (3) severe inner race fault, (4) medium outer race fault, (5) severe outer race fault, (6) medium ball fault, (7) severe ball fault, (8) medium combination fault, and (9) severe combination fault. 
 It's important to note that combination fault denotes a fault in both the inner race and outer race. All faults are artificially preset.
 
+
+![image](https://github.com/CHAOZHAO-1/HUSTbearing-dataset/blob/main/IMG/F2.png)
  
 Fig. 2. Photographs of the failure bearings.
 
@@ -32,10 +34,13 @@ Fig. 2. Photographs of the failure bearings.
 The type of tested bearings is ER-16K, and the detailed parameters are given in Table 1.
 
 Table 1. Parameters of the tested bearings
-Parameter	Value
-Shaft Diameter	38.52 mm
-Ball Diameter	7.94 mm
-Number of Balls	9
+
+ Parameter 	| Value 	| 
+|-------	|------	|
+| Shaft Diameter     	| 38.52 mm 	| 
+| Ball Diameter    	| 7.94 mm 	|
+| Number of Balls     	| 9 	|
+
 
 ### Operating Condition
 
