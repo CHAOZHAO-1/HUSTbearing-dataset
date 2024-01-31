@@ -7,7 +7,7 @@ data link: https://pan.quark.cn/s/0c7578963014
 ## Dataset overview
 
 
-This dataset comprises vibration signals from bearings in nine different health states under four distinct operating conditions. These datasets are publicly available, and anyone can use them to validate diagnosis algorithms for rolling element bearings. Publications making use of the HUSTbearing datasets are requested to cite the following paper.
+This dataset comprises vibration signals from bearings in *nine* different health states under **four** distinct operating conditions. These datasets are publicly available, and anyone can use them to validate diagnosis algorithms for rolling element bearings. Publications making use of the HUSTbearing datasets are requested to cite the following paper.
 
 Chao Zhao, Enrico Zio, Weiming Shen, Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study, Reliability Engineering and System Safety (2024), doi: https://doi.org/10.1016/j.ress.2024.109964.
 
