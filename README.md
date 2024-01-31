@@ -11,7 +11,10 @@ This dataset comprises vibration signals from bearings in nine different health 
 
 Chao Zhao, Enrico Zio, Weiming Shen, Domain Generalization for Cross-Domain Fault Diagnosis: an Application-oriented Perspective and a Benchmark Study, Reliability Engineering and System Safety (2024), doi: https://doi.org/10.1016/j.ress.2024.109964.
 
- 
+
+
+![image](https://github.com/CHAOZHAO-1/HUSTbearing-dataset/blob/main/IMG/F1.png)
+
 Fig. 1. (a) Test rig of HUSTbearing dataset.
 
 ## Brief introduction to experiments
