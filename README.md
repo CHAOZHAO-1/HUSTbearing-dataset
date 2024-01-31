@@ -1,6 +1,6 @@
 # HUSTbearing dataset (实验室自采开源数据集)
 
-We release a open-source bearing fauliure dataset. We hople this dataset can benifit your research.
+We released an open-source bearing failure dataset. We hope this dataset can benefit your research
 
 data link: https://pan.quark.cn/s/0c7578963014
 
