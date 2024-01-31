@@ -55,11 +55,17 @@ For instance, the filename "0.5X_B_65Hz" indicates a medium ball fault under the
 The health states are represented by the following codes:
 
 H: healthy
+
 I: inner race fault
+
 O: outer race fault
+
 B: ball fault
+
 C: combination fault
+
 For example, "O_80Hz" signifies a severe ball fault under the 80 Hz working condition.
+
 ## Contact
 If you have any questions or suggestions, do not hesitate to contact:  
 Mr. Chao Zhao, zhaochao734@hust.edu.cn
