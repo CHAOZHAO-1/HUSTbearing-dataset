@@ -49,11 +49,11 @@ A total of 4 different operating conditions were set in experiments. The operati
 2) 70 Hz
 3) 75 Hz
 4) 80 Hz
-2.4	Sampling setting
+
+### Sampling setting
    
 The sampling frequency is set to 25.6 kHz. As shown in Fig. 3, a total of 262144 data points (i.e. 10.2s) are recorded for each sampling.
  
-Fig. 3 Illustration of file
 ## Dataset details
 
 The raw data file comprises 36 files (9 health states multiplied by 4 working conditions), each in Excel format.
