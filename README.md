@@ -1,6 +1,10 @@
 # HUSTbearing dataset (实验室自采开源数据集)
 
-We released an open-source bearing failure dataset. We hope this dataset can benefit your research
+**important updata 2025-05-19. The second column of the file represents speed. However, since we collected the data at a constant speed, this column is redundant and holds no meaningful value. You can ignore it. The correct speed is indicated in the filename.**
+
+We released an open-source bearing failure dataset. 
+
+We hope this dataset can benefit your research
 
 data link: https://pan.quark.cn/s/0c7578963014
 
@@ -21,9 +25,19 @@ Fig. 1. (a) Test rig of HUSTbearing dataset.
 
 ###	Bearing testbed
 The bearing fault tests were conducted using a Spectra-Quest Mechanical Fault Simulator, as depicted in Fig. 1. From left to right on the test rig are speed control, motor, shaft, acceleration sensor, bearing, and data acquisition board. 
-The bearings in nine health states are illustrated in Fig. 2, representing (1) normal, (2) medium inner race fault, (3) severe inner race fault, (4) medium outer race fault, (5) severe outer race fault, (6) medium ball fault, (7) severe ball fault, (8) medium combination fault, and (9) severe combination fault. 
-It's important to note that combination fault denotes a fault in both the inner race and outer race. All faults are artificially preset.
+The bearings in nine health states are illustrated in Fig. 2, representing
 
+(1) normal,   
+(2) medium inner race fault,  
+(3) severe inner race fault,  
+(4) medium outer race fault,   
+(5) severe outer race fault,  
+(6) medium ball fault,  
+(7) severe ball fault,  
+(8) medium combination fault, and  
+(9) severe combination fault.   
+
+It's important to note that combination fault denotes a fault in both the inner race and outer race. All faults are artificially preset.
 
 ![image](https://github.com/CHAOZHAO-1/HUSTbearing-dataset/blob/main/IMG/F2.png)
  
@@ -52,7 +66,7 @@ A total of 4 different operating conditions were set in experiments. The operati
 
 ### Sampling setting
    
-The sampling frequency is set to 25.6 kHz. As shown in Fig. 3, a total of 262144 data points (i.e. 10.2s) are recorded for each sampling.
+The sampling frequency is set to 25.6 kHz. A total of 262144 data points (i.e. 10.2s) are recorded for each sampling.
  
 ## Dataset details
 
