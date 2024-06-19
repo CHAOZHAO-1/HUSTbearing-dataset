@@ -8,7 +8,7 @@ We hope this dataset can benefit your research
 
 data of quark disk: https://pan.quark.cn/s/0c7578963014  
 
-data of Google Drive: https://drive.google.com/drive/folders/1UMOvyfstYJRyR0rPw0OfH-tIjJg2_0aN?usp=drive_link
+data of Google Drive: https://drive.google.com/drive/folders/1UMOvyfstYJRyR0rPw0OfH-tIjJg2_0aN?usp=sharing
 
 ## Dataset overview
 
