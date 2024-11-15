@@ -41,6 +41,12 @@ The bearings in nine health states are illustrated in Fig. 2, representing
 
 It's important to note that combination fault denotes a fault in both the inner race and outer race. All faults are artificially preset.
 
+| Fault size       	| severe 	| medium  	|
+|------------------	|--------	|---------	|
+| Inner/outer race 	| 0.3 mm 	| 0.15 mm 	|
+| Ball             	| 0.5 mm 	| 0.25 mm 	|
+
+
 ![image](https://github.com/CHAOZHAO-1/HUSTbearing-dataset/blob/main/IMG/F2.png)
  
 Fig. 2. Photographs of the failure bearings.
