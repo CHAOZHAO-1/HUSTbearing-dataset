@@ -1,6 +1,6 @@
 # HUSTbearing dataset (实验室自采开源数据集，包含稳定转速和时变转速)
 
-**important updata 2025-05-19. The second column of the file represents speed. However, since we collected the data at a constant speed, this column is redundant and holds no meaningful value. You can ignore it. The correct speed is indicated in the filename.**
+**important updata 2024-05-19. The second column of the file represents speed. However, since we collected the data at a constant speed, this column is redundant and holds no meaningful value. You can ignore it. The correct speed is indicated in the filename.**
 
 We released an open-source bearing failure dataset. 
 
@@ -107,6 +107,7 @@ C: combination fault
 
 For example, "O_80Hz" signifies a severe ball fault under the 80 Hz working condition.
 
+<img src="https://github.com/CHAOZHAO-1/HUSTbearing-dataset/blob/main/IMG/F4.jpg" width="500" height="300" />
 
 ![image](https://github.com/CHAOZHAO-1/HUSTbearing-dataset/blob/main/IMG/F4.jpg)
  
