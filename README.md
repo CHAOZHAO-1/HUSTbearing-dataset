@@ -105,7 +105,7 @@ B: ball fault
 
 C: combination fault
 
-For example, "O_80Hz" signifies a severe ball fault under the 80 Hz working condition.
+For example, "O_80Hz" signifies a severe outer race fault under the 80 Hz working condition.
 
 
 
@@ -117,4 +117,5 @@ Fig. 4. Drive motor information.
 
 ## Contact
 If you have any questions or suggestions, do not hesitate to contact:  
-Mr. Chao Zhao, zhaochao734@hust.edu.cn
+
+Mr. Chao Zhao, zhaochao0612@gmail.com
