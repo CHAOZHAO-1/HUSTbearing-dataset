@@ -2,7 +2,7 @@
 
 # HUSTbearing dataset (实验室自采开源数据集，包含稳定转速和时变转速)
 
-**Update (2026-10-29):**
+**Update (2026-10-29):**  
 
 1.Files at different speeds under the same fault state were all collected from the same bearing.  
 2.The frequency indicated in the file name is the motor’s set frequency.  
@@ -20,7 +20,7 @@ Data of quark disk: https://pan.quark.cn/s/0c7578963014
 Data of Google Drive: https://drive.google.com/drive/folders/1UMOvyfstYJRyR0rPw0OfH-tIjJg2_0aN?usp=sharing
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**更新（2026-10-29）：**
+**更新（2026-10-29）：**  
 1.同一故障状态下，不同转速的文件均采自同一只轴承。  
 2.文件名中标注的频率为电机设定频率。  
 3.中度损伤与严重损伤分别加工在不同的轴承上。  
