@@ -4,11 +4,11 @@
 
 **Update (2026-10-29):**
 
-1.Files at different speeds under the same fault state were all collected from the same bearing.
-2.The frequency indicated in the file name is the motor’s set frequency.
-3.The moderate and severe damage were machined on separate bearings.
-4.Each file corresponds to one independent acquisition.
-5.X, Y, and Z in the data denote vibration directions. For their exact definitions, please refer to the test rig photo and the sensor description figure.
+1.Files at different speeds under the same fault state were all collected from the same bearing.  
+2.The frequency indicated in the file name is the motor’s set frequency.  
+3.The moderate and severe damage were machined on separate bearings.  
+4.Each file corresponds to one independent acquisition.  
+5.X, Y, and Z in the data denote vibration directions. For their exact definitions, please refer to the test rig photo and the sensor description figure.  
 
 
 **Important Note. The second column of the file represents speed. However, since we collected the data at a constant speed, this column is redundant and holds no meaningful value. You can ignore it. The correct speed is indicated in the filename.**
@@ -21,11 +21,11 @@ Data of Google Drive: https://drive.google.com/drive/folders/1UMOvyfstYJRyR0rPw0
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **更新（2026-10-29）：**
-1.同一故障状态下，不同转速的文件均采自同一只轴承。
-2.文件名中标注的频率为电机设定频率。
-3.中度损伤与严重损伤分别加工在不同的轴承上。
-4.每个文件对应一次独立采集。
-5.数据中的 X、Y、Z 为振动方向，具体定义请参见试验台图片及传感器介绍图。
+1.同一故障状态下，不同转速的文件均采自同一只轴承。  
+2.文件名中标注的频率为电机设定频率。  
+3.中度损伤与严重损伤分别加工在不同的轴承上。  
+4.每个文件对应一次独立采集。  
+5.数据中的 X、Y、Z 为振动方向，具体定义请参见试验台图片及传感器介绍图。  
 
 **重要注释:**
 文件中的第二列表示转速。然而，由于振动信号是在恒定转速条件下的，该列是冗余的，没有实际意义，可以忽略。实际的转速信息请以文件名为准。
